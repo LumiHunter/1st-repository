@@ -9,4 +9,4 @@ case 2: generator (Adam / learning rate e-5) | discriminator (SGD / learning rat
 * loss가 0~1 사이에서 비슷하다가 generator loss가 더 높아짐
  
 case 3: generator (Adam / learning rate e-5) | discriminator (SGD / learning rate 3e-4) | epoch 400
-* 
+* case 2 보다 다소 loss의 격차가 줄어듦
