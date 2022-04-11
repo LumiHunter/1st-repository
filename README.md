@@ -4,6 +4,6 @@
 2. scikit-learn 라이브러리의 machine learning 연습
 3. open CV 이용
 4. RNN과 문장 생성
-5. 
+
 
 ## Going Deeper
