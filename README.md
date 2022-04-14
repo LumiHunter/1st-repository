@@ -23,5 +23,6 @@
 2. Image Augmentation
 3. Class Activation Map
 4. Object Detection
-5. Semantic Segmentation
+5. Semantic Segmentation(U-Net)
 6. Text detection/recognition(OCR)
+7. Face Detection(SSD)
